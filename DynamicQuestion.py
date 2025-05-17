@@ -8,19 +8,16 @@ from langchain_core.runnables import RunnableSequence
 from sentence_transformers import SentenceTransformer, util
 import re
 
-# Load your 10-15 filtered schemes
 def load_schemes(filepath):
     with open(filepath, 'r') as file:
         raw = json.load(file)
 
-    # Assuming structure is: [ { "response": [ <actual_schemes> ] } ]
     if isinstance(raw, list) and "response" in raw[0]:
         return raw[0]["response"]
     else:
         raise ValueError("Unexpected JSON structure. Expected list with a 'response' key.")
 
 
-# Turn a scheme into a semantic description string
 def get_scheme_semantic_text(scheme: dict) -> str:
     return f"""
     Scheme Name: {scheme['schemeName']}
@@ -31,7 +28,6 @@ def get_scheme_semantic_text(scheme: dict) -> str:
     Mode: {scheme.get('mode', '')}
     """
 
-# Summarize a scheme using the LLM
 def summarize_scheme(scheme: dict, groq_api_key: str) -> str:
     llm = ChatGroq(groq_api_key=groq_api_key, model_name="gemma2-9b-it")
     scheme_text = get_scheme_semantic_text(scheme)
@@ -49,7 +45,6 @@ Summary:
     summary_output = chain.invoke({"scheme_text": scheme_text})
     return summary_output.content.strip()
 
-# Generate adaptive, high-discrimination questions
 def generate_questions(scheme_summaries: List[str], groq_api_key: str) -> List[str]:
     llm = ChatGroq(groq_api_key=groq_api_key, model_name="gemma2-9b-it")
 
@@ -77,13 +72,11 @@ Avoid generic questions. Ask sharp, discriminative ones. Just return the questio
     question_lines = re.findall(r"\d+\.\s*(.*)", questions_output.content)
     return [q.strip() for q in question_lines if q.strip()]
 
-# Embed schemes using sentence-transformers
 def embed_schemes(schemes: List[dict]) -> List[np.ndarray]:
     model = SentenceTransformer('all-mpnet-base-v2')
     texts = [get_scheme_semantic_text(s) for s in schemes]
     return model.encode(texts, convert_to_tensor=True)
 
-# Embed user answer and filter top schemes
 def filter_by_similarity(user_answers: List[str], schemes: List[dict], scheme_embeddings: List[np.ndarray]) -> List[dict]:
     model = SentenceTransformer('all-mpnet-base-v2')
     joined = ". ".join(user_answers).lower()
@@ -95,26 +88,23 @@ def filter_by_similarity(user_answers: List[str], schemes: List[dict], scheme_em
     for idx, scheme in enumerate(schemes):
         for kw in keywords:
             if kw in joined and kw in json.dumps(scheme).lower():
-                similarities[idx] += 0.05  # small boost for keyword presence
+                similarities[idx] += 0.05 
 
     top_indices = np.argsort(-similarities)[:3]
     return [schemes[i] for i in top_indices]
 
 # Main function
 def main():
-    file_path = "schemes_2.json"  # should have 10-15 schemes
+    file_path = "schemes_2.json" 
     groq_api_key = os.getenv("GROQ_API_KEY_2") or input("Enter your GROQ API key: ")
 
     schemes = load_schemes(file_path)
     print(f"Loaded {len(schemes)} schemes for refinement.\n")
 
-    # Step 0: Summarize all schemes
     summarized_schemes = [summarize_scheme(scheme, groq_api_key) for scheme in schemes]
 
-    # Step 1: Generate 5 smart questions using summaries
     questions = generate_questions(summarized_schemes, groq_api_key)
     print("Please answer the following questions to help us filter the schemes further:\n")
-    # Display all questions first
     print("\n".join([f"{i+1}. {q}" for i, q in enumerate(questions)]))
     print("\nPlease provide your answers below. Separate each answer with a new line:\n")
 
@@ -123,7 +113,6 @@ def main():
         ans = input(f"Answer {i+1}: ")
         user_answers.append(ans)
 
-    # Step 2: Embed all schemes (using full schemes) and filter
     scheme_embeddings = embed_schemes(schemes)
     final_schemes = filter_by_similarity(user_answers, schemes, scheme_embeddings)
 
