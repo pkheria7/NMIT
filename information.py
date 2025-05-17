@@ -66,7 +66,7 @@ def scrape_scheme_info(driver, wait, url, name):
     return data
 
 def process_page(page_number, driver, wait):
-    input_file = f'BaseJson/page_{page_number}.json'
+    input_file = f'page_{page_number}.json'
     output_file = f'OutputJson/page_{page_number}_info.json'
     
     # Create output directory if it doesn't exist
@@ -126,7 +126,7 @@ def main():
 
     try:
         # Process all pages from 1 to 344
-        for page_num in range(32, 345):
+        for page_num in range(1, 8):
             print(f"\nProcessing page {page_num}...")
             success = process_page(page_num, driver, wait)
             if not success:

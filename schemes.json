@@ -1,0 +1,286 @@
+[
+  {
+  "response": [
+    {
+      "id": 84,
+      "schemeName": "Computer Training Scheme",
+      "eligibility": {
+        "gender": null,
+        "maxAge": 0,
+        "minAge": 0,
+        "minority": false,
+        "maxIncome": 100000,
+        "minIncome": 0,
+        "residence": "rural",
+        "disability": false,
+        "casteCategory": "Any",
+        "maritalStatus": "Any"
+      },
+      "category": "education",
+      "applicationProcedure": [
+        "Log in on the official website",
+        "Enter name and mobile number for registration",
+        "Enter OTP for verification",
+        "Log in with username and password",
+        "Enter information and upload documents",
+        "Lock the application after save",
+        "Take printout of the application form and submit to the office of the District Backward Classes Welfare Officer"
+      ],
+      "documents": [
+        "Income Certificate",
+        "Caste Certificate",
+        "Intermediate Marks Sheet",
+        "Applicant photograph"
+      ],
+      "state": "Uttar Pradesh",
+      "mode": false,
+      "sourceLink": "https://www.myscheme.gov.in/schemes/cts"
+    },
+    {
+      "id": 85,
+      "schemeName": "Dattopant Thengadi Mratak Shramik Aarthik Sahayata Yojana",
+      "eligibility": {
+        "gender": null,
+        "maxAge": 0,
+        "minAge": 0,
+        "minority": false,
+        "maxIncome": 15000,
+        "minIncome": 0,
+        "residence": "rural",
+        "disability": false,
+        "casteCategory": "Any",
+        "maritalStatus": "Any"
+      },
+      "category": "health and wellness",
+      "applicationProcedure": [
+        "Access the official website of the Uttar Pradesh Labour Welfare Board",
+        "Select the \"Shramik Application\" option from the homepage",
+        "Register New User and fill out the registration form",
+        "Log in to the portal and choose the relevant scheme",
+        "Complete the application form and upload a recent photograph",
+        "Submit the application form and obtain a printed copy",
+        "Present the application form at the concerned institution for verification and endorsement",
+        "Upload a scanned copy of the verified application form along with supporting documents"
+      ],
+      "documents": [
+        "Attested photocopy of the online filled application form",
+        "Read photocopy of the beneficiary's bank passbook",
+        "Read photocopy of ration card/family register or other government record",
+        "Death certificate issued by the Registrar (Birth/Death)"
+      ],
+      "state": "Uttar Pradesh",
+      "mode": false,
+      "sourceLink": "https://www.myscheme.gov.in/schemes/dtlfas"
+    },
+    {
+      "id": 99,
+      "schemeName": "Dr. APJ Abdul Kalam Shramik Pravidhik Shiksha Sahaayata Yojana",
+      "eligibility": {
+        "gender": null,
+        "maxAge": 0,
+        "minAge": 0,
+        "minority": false,
+        "maxIncome": 15000,
+        "minIncome": 0,
+        "residence": "rural",
+        "disability": false,
+        "casteCategory": "Any",
+        "maritalStatus": "Any"
+      },
+      "category": "education",
+      "applicationProcedure": [
+        "Access the official website of the Uttar Pradesh Labour Welfare Board",
+        "Select the \"Shramik Application\" option from the homepage",
+        "Register New User and fill out the registration form",
+        "Log in to the portal and choose the relevant scholarship scheme",
+        "Complete the application form, upload a recent photograph, and submit the application form",
+        "Present the application form at the concerned educational institution and the factory/establishment for verification and endorsement",
+        "Upload a scanned copy of the verified application form along with the required supporting documents"
+      ],
+      "documents": [
+        "Verified copy of the online filled application form",
+        "Photocopy of the passbook of the son/daughter or the worker",
+        "Photocopy of the certificate of admission or studying in technical education"
+      ],
+      "state": "Uttar Pradesh",
+      "mode": false,
+      "sourceLink": "https://www.myscheme.gov.in/schemes/dapjsss"
+    },
+    {
+      "id": 123,
+      "schemeName": "Financial Assistance to Former Sports Person of UP",
+      "eligibility": {
+        "gender": null,
+        "maxAge": 0,
+        "minAge": 0,
+        "minority": false,
+        "maxIncome": 10000,
+        "minIncome": 0,
+        "residence": "rural",
+        "disability": false,
+        "casteCategory": "Any",
+        "maritalStatus": "Any"
+      },
+      "category": "sports",
+      "applicationProcedure": [
+        "Download the application form from the official website",
+        "Fill out the application form completely",
+        "Submit the duly filled application form along with necessary supporting documents to the respective sports officer of the concerned district"
+      ],
+      "documents": [
+        "Identity proof",
+        "Proof of age (Birth certificate)",
+        "Income certificate",
+        "Domicile certificate",
+        "Disability Certificate (if applicable)",
+        "Details of Sports competition/Championships of State, National & International importance covered by the applicant",
+        "Any other relevant documents"
+      ],
+      "state": "Uttar Pradesh",
+      "mode": true,
+      "sourceLink": "https://www.myscheme.gov.in/schemes/fafspup"
+    },
+    {
+      "id": 134,
+      "schemeName": "Gambhir Bimari Sahayata Yojana",
+      "eligibility": {
+        "gender": null,
+        "maxAge": 0,
+        "minAge": 0,
+        "minority": false,
+        "maxIncome": 0,
+        "minIncome": 0,
+        "residence": "rural",
+        "disability": false,
+        "casteCategory": "Any",
+        "maritalStatus": "Any"
+      },
+      "category": "health and wellness",
+      "applicationProcedure": [
+        "Offline",
+        "Online"
+      ],
+      "documents": [
+        "Copy of construction worker registration card",
+        "Copy of Aadhar Card",
+        "Copy of bank passbook for account number, branch name and IFSC code",
+        "Disease related Details",
+        "Doctor's certificate on format",
+        "Medicines original bill",
+        "Certificate of being an unmarried daughter or a daughter below 21 years of age"
+      ],
+      "state": "Uttar Pradesh",
+      "mode": true,
+      "sourceLink": "https://www.myscheme.gov.in/schemes/gbsy"
+    },
+    {
+      "id": 135,
+      "schemeName": "Ganesh Shankar Vidyaarthi Shramik Puraskar Rashi Yojana",
+      "eligibility": {
+        "gender": null,
+        "maxAge": 0,
+        "minAge": 0,
+        "minority": false,
+        "maxIncome": 15000,
+        "minIncome": 0,
+        "residence": "rural",
+        "disability": false,
+        "casteCategory": "Any",
+        "maritalStatus": "Any"
+      },
+      "category": "education",
+      "applicationProcedure": [
+        "Access the official website of the Uttar Pradesh Labour Welfare Board",
+        "Select the \"Shramik Application\" option from the homepage",
+        "Register New User and fill out the registration form",
+        "Log in to the portal and choose the relevant scholarship scheme",
+        "Complete the application form, upload a recent photograph, and submit the application",
+        "Obtain a printed copy of the duly submitted application form",
+        "Present the application form at the concerned educational institution and the factory/establishment for verification and endorsement",
+        "Upload a scanned copy of the verified application form along with the required supporting documents"
+      ],
+      "documents": [
+        "Attested photocopy of the online filled application form",
+        "Read photocopy of bank passbook of son/daughter or worker",
+        "Marksheet of High School / Intermediate / Graduation / Masters"
+      ],
+      "state": "Uttar Pradesh",
+      "mode": false,
+      "sourceLink": "https://www.myscheme.gov.in/schemes/gsvsps"
+    },
+    {
+      "id": 306,
+      "schemeName": "Panchayat Kalyan Kosh",
+      "eligibility": {
+        "gender": null,
+        "maxAge": 0,
+        "minAge": 0,
+        "minority": false,
+        "maxIncome": 0,
+        "minIncome": 0,
+        "residence": "rural",
+        "disability": false,
+        "casteCategory": "Any",
+        "maritalStatus": "Any"
+      },
+      "category": "Other",
+      "applicationProcedure": [
+        "Family members or dependents of the deceased Panchayat representatives should apply directly through the official website of the Panchayati Raj Department, Uttar Pradesh.",
+        "During registration on the Panchayat Kalyan Kosh portal, the dependent must fill out the application form in the prescribed format and upload the necessary documents.",
+        "The District Panchayat Raj Officer will download the application submitted by the dependent from their login ID and obtain approval from the District Magistrate after a thorough review.",
+        "Once approved by the District Magistrate, the District Panchayat Raj Officer will forward the application form to the Director of Panchayati Raj from their login ID for fund transfer."
+      ],
+      "documents": [
+        "Applicant's identity proof",
+        "Proof of relationship with the deceased Panchayat representative",
+        "Ration card",
+        "In case of accidental death of the Panchayat representative, provide a copy of the Panchnama, postmortem report, or a certificate issued by a registered medical practitioner",
+        "Death certificate issued by the competent authority in case of natural death",
+        "Certificate issued by the Gram Panchayat Secretary in case of the death of a Gram Pradhan or Gram Panchayat member, by the Block Development Officer in case of the death of an Kshetra Pramukh or Kshetra Panchayat member, and by the Additional Chief Officer for the death of a Zila Panchayat President or Zila Panchayat member",
+        "Bank account details/bank passbook",
+        "Certification record from the office of the elected person",
+        "Any additional documents as required"
+      ],
+      "state": "Uttar Pradesh",
+      "mode": false,
+      "sourceLink": "https://www.myscheme.gov.in/schemes/pkk"
+    },
+    {
+      "id": 339,
+      "schemeName": "Raja Harishachandra Shramik Mratak Antyeshti Sahayata Yojana",
+      "eligibility": {
+        "gender": null,
+        "maxAge": 0,
+        "minAge": 0,
+        "minority": false,
+        "maxIncome": 15000,
+        "minIncome": 0,
+        "residence": "rural",
+        "disability": false,
+        "casteCategory": "Any",
+        "maritalStatus": "Any"
+      },
+      "category": "health and wellness",
+      "applicationProcedure": [
+        "Access the official website of the Uttar Pradesh Labour Welfare Board",
+        "Select the \"Shramik Application\" option",
+        "Register New User and fill out the registration form",
+        "Log in to the portal and choose the relevant scheme",
+        "Complete the application form and upload a recent photograph",
+        "Submit the application form and obtain a printed copy",
+        "Present the application form for verification and endorsement",
+        "Upload a scanned copy of the verified application form along with supporting documents"
+      ],
+      "documents": [
+        "Attested photocopy of the online filled application form",
+        "Read photocopy of the beneficiary's bank passbook",
+        "Read photocopy of ration card/family register or other government record",
+        "Death certificate issued by Registrar (Birth/Death)"
+      ],
+      "state": "Uttar Pradesh",
+      "mode": false,
+      "sourceLink": "https://www.myscheme.gov.in/schemes/rhsmas"
+    }
+  ]
+}
+]

@@ -1,2 +1,5 @@
-.venv
+.venv/
 .DS_Store
+.dymanic
+.formData
+.env
