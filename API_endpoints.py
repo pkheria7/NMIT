@@ -45,11 +45,11 @@ Summary:
     summary_output = chain.invoke({"scheme_text": scheme_text})
     return summary_output.content.strip()
 
-def generate_questions(scheme_summaries: List[str], groq_api_key: str) -> List[str]:
+def generate_questions(scheme_summaries: List[str], groq_api_key: str, lang: str = "eng") -> List[str]:
     llm = ChatGroq(groq_api_key=groq_api_key, model_name="gemma2-9b-it")
 
     prompt = PromptTemplate(
-        input_variables=["scheme_texts"],
+        input_variables=["scheme_texts", "lang"],
         template="""
 You are a government scheme advisor. Your job is to help match a user with one of the few schemes.
 
@@ -57,9 +57,12 @@ Below is a JSON array of scheme summaries:
 
 {scheme_texts}
 
-Generate 5 intelligent and diverse questions that will help you understand the user's background and needs.
+Your task is to generate 5 intelligent and diverse questions in the language specified below , make sure no quotations and backslashes are there in your generation.
+Language: {lang}
+
+The questions should help you understand the user's background and needs.
 Your goal is to narrow down the list by:
-- Asking about the presence of specific documents such as Caste Certificate, Income Certificate, Disability Certificate, Farmer ID, Student ID, MSME Registration, etc. Avoid generic questions like “what other documents do you have?”
+- Asking about the presence of specific documents such as Caste Certificate, Income Certificate, Disability Certificate, Farmer ID, Student ID, MSME Registration, etc.
 - User eligibility (student, widow, farmer, entrepreneur, etc.)
 
 Avoid generic questions. Ask sharp, discriminative ones. Just return the questions in numbered list format.
@@ -68,7 +71,7 @@ Avoid generic questions. Ask sharp, discriminative ones. Just return the questio
 
     scheme_texts = json.dumps(scheme_summaries, indent=2)
     chain = prompt | llm
-    questions_output = chain.invoke({"scheme_texts": scheme_texts})
+    questions_output = chain.invoke({"scheme_texts": scheme_texts, "lang": lang})
     question_lines = re.findall(r"\d+\.\s*(.*)", questions_output.content)
     return [q.strip() for q in question_lines if q.strip()]
 
@@ -102,7 +105,6 @@ def api_generate_questions():
     data = request.json
     schemes = []
 
-    # Handle JSON formats
     if isinstance(data, list) and len(data) > 0 and isinstance(data[0], dict) and "response" in data[0]:
         schemes = data[0]["response"]
     elif isinstance(data, dict):
@@ -110,13 +112,14 @@ def api_generate_questions():
             schemes = data["schemes"]
         elif "response" in data:
             schemes = data["response"]
+    lang = data.get("lang", "eng")
 
     if not schemes:
         return jsonify({"error": "Missing schemes"}), 400
 
     groq_api_key = os.environ.get("GROQ_API_KEY_2")
     summarized_schemes = [summarize_scheme(scheme, groq_api_key) for scheme in schemes]
-    questions = generate_questions(summarized_schemes, groq_api_key)
+    questions = generate_questions(summarized_schemes, groq_api_key, lang)
     return jsonify({"questions": questions})
 
 
