@@ -1,0 +1,855 @@
+[
+    {
+        "response": [
+          {
+            "id": 17,
+            "schemeName": "Annual Medical Assistance Scheme (BBOCWWB)",
+            "eligibility": {
+              "gender": null,
+              "maxAge": 0,
+              "minAge": 0,
+              "minority": false,
+              "maxIncome": 0,
+              "minIncome": 0,
+              "residence": "rural",
+              "disability": false,
+              "casteCategory": "Any",
+              "maritalStatus": "Any"
+            },
+            "category": "health and wellness",
+            "applicationProcedure": [
+              "Visit the Official Website of the Bihar Building and Other Construction Workers Welfare Board",
+              "Click on \"Scheme Application\" and select \"Apply for Scheme\"",
+              "Enter registration number and click \"Show\" to view details",
+              "Select the scheme, enter mandatory information and upload necessary documents",
+              "Click on \"Submit Application\" to complete the process"
+            ],
+            "documents": [
+              "Identity Proof i.e. Aadhaar Card, Voter Card",
+              "Bank Account Details",
+              "Proof of Age",
+              "Identity Card of the Registered Worker",
+              "Proof of Membership",
+              "Any Other Documents as Required"
+            ],
+            "state": "Bihar",
+            "mode": false,
+            "sourceLink": "https://www.myscheme.gov.in/schemes/amapbbocwwb"
+          },
+          {
+            "id": 41,
+            "schemeName": "Bihar Rajya Fasal Sahayata Yojna",
+            "eligibility": {
+              "gender": null,
+              "maxAge": 0,
+              "minAge": 0,
+              "minority": false,
+              "maxIncome": 0,
+              "minIncome": 0,
+              "residence": "rural",
+              "disability": false,
+              "casteCategory": "Any",
+              "maritalStatus": "Any"
+            },
+            "category": "agriculture",
+            "applicationProcedure": [
+              "Farmers need to apply on the official portal.",
+              "First Farmers need to log in with their registration details.",
+              "If Farmers does have a registration number then they have to complete the registration process on https://dbtagriculture.bihar.gov.in/",
+              "After the registration, farmers can get/search for their Registration Number on https://pacsonline.bih.nic.in/fsy/Register.aspx",
+              "After login on Official Portal,  a new form will open.",
+              "Here applicants have to enter the required information.",
+              "And submit the application."
+            ],
+            "documents": [
+              "Land Possession Certificate / Revenue Receipt of land should be after 31-03-2022.",
+              "Self-declaration certificate should be attested by ward member/farmer advisor.",
+              "Aadhaar card.",
+              "Bank passbook.",
+              "Farmland papers.",
+              "The applicant applying should have a mobile number.",
+              "Passport-size photo."
+            ],
+            "state": "Bihar",
+            "mode": false,
+            "sourceLink": "https://www.myscheme.gov.in/schemes/brfsy"
+          },
+          {
+            "id": 47,
+            "schemeName": "Bihar Startup Policy",
+            "eligibility": {
+              "gender": null,
+              "maxAge": 0,
+              "minAge": 0,
+              "minority": false,
+              "maxIncome": 0,
+              "minIncome": 0,
+              "residence": "rural",
+              "disability": false,
+              "casteCategory": "Any",
+              "maritalStatus": "Any"
+            },
+            "category": "entrepreneurship",
+            "applicationProcedure": [
+              "Open the official website",
+              "Select the register option",
+              "Read all the instructions carefully and move forward",
+              "Answer the 8 questions out of 10",
+              "Enter the details in the application form and click on the submit option"
+            ],
+            "documents": [
+              "Valid Email ID",
+              "Mobile no. linked with Aadhar",
+              "Passport size photo",
+              "Scanned Image of Aadhar card and Pan card",
+              "Caste certificate (Not required for general category)",
+              "Educational qualification Certificate",
+              "Proof of entity (If the entity is registered)",
+              "Balance Sheet",
+              "Given format filled with details and signature"
+            ],
+            "state": "Bihar",
+            "mode": false,
+            "sourceLink": "https://www.myscheme.gov.in/schemes/bsp"
+          },
+          {
+            "id": 48,
+            "schemeName": "Bihar State Journalist Insurance Scheme",
+            "eligibility": {
+              "gender": null,
+              "maxAge": 70,
+              "minAge": 21,
+              "minority": false,
+              "maxIncome": 0,
+              "minIncome": 0,
+              "residence": "rural",
+              "disability": false,
+              "casteCategory": "Any",
+              "maritalStatus": "Any"
+            },
+            "category": "health and wellness",
+            "applicationProcedure": [
+              "Download the application form from the official website",
+              "Fill in all the mandatory fields and attach copies of all the mandatory documents",
+              "Submit the duly filled and signed application form along with the documents to the District Public Relation Officer"
+            ],
+            "documents": [
+              "Five Passport-size Photograph",
+              "Appointment/Affiliation letter",
+              "Birth Certificate",
+              "Photocopy of Registration Number of the Institution",
+              "Other Mediclaim Policy Document",
+              "Proof of Media Organization Registration",
+              "Work Experience Certificate",
+              "Press Accreditation Card",
+              "Proof of Circulation for Media Organizations",
+              "Crossed/Cancelled Cheque",
+              "Premium Contribution Receipt",
+              "Affidavit regarding Criminal/Civil matters",
+              "Declaration of Nominee"
+            ],
+            "state": "Bihar",
+            "mode": true,
+            "sourceLink": "https://www.myscheme.gov.in/schemes/bsjis"
+          },
+          {
+            "id": 55,
+            "schemeName": "Cash Prizes Scheme (BBOCWWB)",
+            "eligibility": {
+              "gender": null,
+              "maxAge": 0,
+              "minAge": 0,
+              "minority": false,
+              "maxIncome": 0,
+              "minIncome": 0,
+              "residence": "rural",
+              "disability": false,
+              "casteCategory": "Any",
+              "maritalStatus": "Any"
+            },
+            "category": "education",
+            "applicationProcedure": [
+              "Visit the Official Website of the Bihar Building and Other Construction Workers Welfare Board",
+              "Click on \"Scheme Application\" and select \"Apply for Scheme\"",
+              "Enter registration number and click \"Show\" to view details",
+              "Select the scheme, enter mandatory information, and upload necessary documents",
+              "Click on \"Submit Application\" to complete the process"
+            ],
+            "documents": [
+              "Identity Proof i.e. Aadhaar Card, Voter Card",
+              "Bank Account Details",
+              "Proof of Age",
+              "Identity Card of the Registered Worker",
+              "Marksheet of Student",
+              "Proof of Membership",
+              "Any Other Documents as Required"
+            ],
+            "state": "Bihar",
+            "mode": false,
+            "sourceLink": "https://www.myscheme.gov.in/schemes/cpsbocwwb"
+          },
+          {
+            "id": 58,
+            "schemeName": "Chai Vikas Yojana",
+            "eligibility": {
+              "gender": null,
+              "maxAge": 0,
+              "minAge": 0,
+              "minority": false,
+              "maxIncome": 0,
+              "minIncome": 0,
+              "residence": "rural",
+              "disability": false,
+              "casteCategory": "Any",
+              "maritalStatus": "Any"
+            },
+            "category": "agriculture",
+            "applicationProcedure": [
+              "Visit the registration page of the DBT portal",
+              "Select Aadhaar verification type: OTP/ BIO-AUTH/ IRIS",
+              "Enter your Aadhaar number and Name as per Aadhaar",
+              "Enter the OTP",
+              "Confirm the details about the Kisan Credit Card (KCC) Details",
+              "Fill in all the details properly i.e. Farmer details, Land information, Bank account details",
+              "Validate with OTP",
+              "Visit the official website",
+              "Scroll to bottom and confirm the checkbox",
+              "Select the Type of Applicant and enter the DBT Registration Number of Kisan",
+              "Fill in the required details i.e. Address, Land Details, etc, and upload documents",
+              "Confirm the checkbox and then click on Submit"
+            ],
+            "documents": [
+              "Aadhaar Details (Should be linked with mobile number)",
+              "Passport Size Photo",
+              "Farmer details",
+              "Land information",
+              "Bank account",
+              "Land-ownership/ revenue receipt (If applicable)",
+              "Genealogy (if required)"
+            ],
+            "state": "Bihar",
+            "mode": false,
+            "sourceLink": "https://www.myscheme.gov.in/schemes/cvyb"
+          },
+          {
+            "id": 67,
+            "schemeName": "Chief Minister Family Benefit Scheme",
+            "eligibility": {
+              "gender": null,
+              "maxAge": 0,
+              "minAge": 0,
+              "minority": false,
+              "maxIncome": 0,
+              "minIncome": 0,
+              "residence": "rural",
+              "disability": false,
+              "casteCategory": "Any",
+              "maritalStatus": "Any"
+            },
+            "category": "social welfare",
+            "applicationProcedure": [
+              "Submit an application on plain paper to the office of the Sub-Divisional Officer"
+            ],
+            "documents": [
+              "Identity proof of the applicant",
+              "Identity proof of the deceased person",
+              "Death certificate of the deceased person",
+              "Proof of age of the deceased person",
+              "Below Poverty Line (BPL) Card/ Ration Card",
+              "Address proof",
+              "Bank Passbook/Bank account details"
+            ],
+            "state": "Bihar",
+            "mode": true,
+            "sourceLink": "https://www.myscheme.gov.in/schemes/cmfbs"
+          },
+          {
+            "id": 73,
+            "schemeName": "Cluster Mei Bagwani Ki Yojana-II",
+            "eligibility": {
+              "gender": null,
+              "maxAge": 0,
+              "minAge": 0,
+              "minority": false,
+              "maxIncome": 0,
+              "minIncome": 0,
+              "residence": "rural",
+              "disability": false,
+              "casteCategory": "Any",
+              "maritalStatus": "Any"
+            },
+            "category": "agriculture",
+            "applicationProcedure": [
+              "Visit the registration page of the DBT portal",
+              "Select Aadhaar verification type: OTP/ BIO-AUTH/ IRIS",
+              "Enter your Aadhaar number and Name as per Aadhaar",
+              "Enter the OTP",
+              "Confirm the details about the Kisan Credit Card (KCC) Details",
+              "Fill in all the details properly i.e. Farmer details, Land information, Bank account details",
+              "Validate with OTP",
+              "Visit the official website",
+              "Scroll to bottom and confirm the checkbox",
+              "Select the Type of Applicant and enter the DBT Registration Number of Kisan",
+              "Fill in the required details i.e. Address, Land Details, etc, and upload documents",
+              "Confirm the checkbox and then click on Submit"
+            ],
+            "documents": [
+              "Aadhaar Details",
+              "Passport Size Photo",
+              "Farmer details",
+              "Land information",
+              "Bank account",
+              "Contract form (for non-ryot farmers)",
+              "Land-ownership/ revenue receipt (If applicable)"
+            ],
+            "state": "Bihar",
+            "mode": false,
+            "sourceLink": "https://www.myscheme.gov.in/schemes/cmbkyii"
+          },
+          {
+            "id": 74,
+            "schemeName": "Cluster Mei Bagwani Ki Yojana",
+            "eligibility": {
+              "gender": null,
+              "maxAge": 0,
+              "minAge": 0,
+              "minority": false,
+              "maxIncome": 0,
+              "minIncome": 0,
+              "residence": "rural",
+              "disability": false,
+              "casteCategory": "Any",
+              "maritalStatus": "Any"
+            },
+            "category": "agriculture",
+            "applicationProcedure": [
+              "Visit the registration page of the DBT portal",
+              "Select Aadhaar verification type: OTP/ BIO-AUTH/ IRIS",
+              "Enter your Aadhaar number and Name as per Aadhaar",
+              "Enter the OTP",
+              "Confirm the details about the Kisan Credit Card (KCC)",
+              "Fill in all the details properly i.e. Farmer details, Land information, Bank account details",
+              "Validate with OTP",
+              "Visit the official website",
+              "Scroll to bottom and confirm the checkbox",
+              "Select the Type of Applicant and enter the DBT Registration Number of Kisan",
+              "Fill in the required details i.e. Address, Land Details, etc, and upload documents",
+              "Confirm the checkbox and then click on Submit"
+            ],
+            "documents": [
+              "Aadhaar Details",
+              "Passport Size Photo",
+              "Farmer details",
+              "Land information",
+              "Bank account",
+              "Contract form (for non-ryot farmers)",
+              "Land-ownership/ revenue receipt (If applicable)",
+              "Genealogy (if applicant's name is not clear in the land-ownership/ revenue receipt)"
+            ],
+            "state": "Bihar",
+            "mode": false,
+            "sourceLink": "https://www.myscheme.gov.in/schemes/cmbky"
+          },
+          {
+            "id": 112,
+            "schemeName": "Family Pension (BBOCWWB)",
+            "eligibility": {
+              "gender": null,
+              "maxAge": 0,
+              "minAge": 0,
+              "minority": false,
+              "maxIncome": 0,
+              "minIncome": 0,
+              "residence": "rural",
+              "disability": false,
+              "casteCategory": "Any",
+              "maritalStatus": "Any"
+            },
+            "category": "health and wellness",
+            "applicationProcedure": [
+              "Visit the Official Website of the Bihar Building and Other Construction Workers Welfare Board",
+              "Click on Scheme Application and select Apply for Scheme",
+              "Enter your registration number and click Show to view your details",
+              "Select the scheme you intend to apply for, enter all mandatory information and upload the necessary documents in the specified format and size",
+              "Click on Submit Application to complete the process"
+            ],
+            "documents": [
+              "Identity Proof i.e. Aadhaar Card, Voter Card",
+              "Bank Account Details",
+              "Proof of age at the time of Registration",
+              "Death certificate of worker",
+              "Nominee/legal Heir Certificate",
+              "Identity Card of the Registered Worker",
+              "Proof of Membership",
+              "Any Other Documents as Required"
+            ],
+            "state": "Bihar",
+            "mode": false,
+            "sourceLink": "https://www.myscheme.gov.in/schemes/fpbbocwwb"
+          },
+          {
+            "id": 216,
+            "schemeName": "Makhana Beej Vitaran",
+            "eligibility": {
+              "gender": null,
+              "maxAge": 0,
+              "minAge": 0,
+              "minority": false,
+              "maxIncome": 0,
+              "minIncome": 0,
+              "residence": "rural",
+              "disability": false,
+              "casteCategory": "Any",
+              "maritalStatus": "Any"
+            },
+            "category": "agriculture",
+            "applicationProcedure": [
+              "Visit the registration page of the DBT portal",
+              "Select Aadhaar verification type",
+              "Enter Aadhaar number and Name",
+              "Enter OTP and validate",
+              "Fill in farmer details, land information, and bank account details",
+              "Submit and generate Registration Id",
+              "Apply for the scheme using the 13 digit registration number"
+            ],
+            "documents": [
+              "Aadhaar Details",
+              "Passport Size Photo",
+              "Farmer details",
+              "Land information",
+              "Bank account",
+              "Contract form (for non-ryot farmers)",
+              "Land-ownership/ revenue receipt"
+            ],
+            "state": "Bihar",
+            "mode": false,
+            "sourceLink": "https://www.myscheme.gov.in/schemes/mbyb"
+          },
+          {
+            "id": 143,
+            "schemeName": "Grant for Purchase of Tools (BBOCWWB)",
+            "eligibility": {
+              "gender": null,
+              "maxAge": 0,
+              "minAge": 0,
+              "minority": false,
+              "maxIncome": 0,
+              "minIncome": 0,
+              "residence": "rural",
+              "disability": false,
+              "casteCategory": "Any",
+              "maritalStatus": "Any"
+            },
+            "category": "Other",
+            "applicationProcedure": [
+              "Visit the Official Website of the Bihar Building and Other Construction Workers Welfare Board",
+              "Click on \"Labour Registration\"",
+              "Apply for New Registration",
+              "Enter Aadhar card number and name, then click \"Authenticate\"",
+              "Enter all required details and pay the application fee online",
+              "Visit the Official Website and click on \"Scheme Application\"",
+              "Select \"Apply for Scheme\" and enter registration number",
+              "Select the scheme, enter required information and upload necessary documents",
+              "Click on \"Submit Application\""
+            ],
+            "documents": [
+              "Aadhaar Card",
+              "Passport-size photograph",
+              "Skill-upgradation training certificate",
+              "Proof of residence",
+              "Ration card",
+              "Bank account details/copy of bank passbook",
+              "Caste Certificate (If applicable)",
+              "Undertaking/declaration"
+            ],
+            "state": "Bihar",
+            "mode": false,
+            "sourceLink": "https://www.myscheme.gov.in/schemes/gptbbocwwb"
+          },
+          {
+            "id": 192,
+            "schemeName": "Khule Jalsroto Mei Pen Aadharit Matsya Paalan ki Yojana",
+            "eligibility": {
+              "gender": null,
+              "maxAge": 0,
+              "minAge": 0,
+              "minority": false,
+              "maxIncome": 0,
+              "minIncome": 0,
+              "residence": "rural",
+              "disability": false,
+              "casteCategory": "Any",
+              "maritalStatus": "Any"
+            },
+            "category": "agriculture",
+            "applicationProcedure": [
+              "Visit the official website",
+              "Click on 'Applications are being invited for all the schemes of the financial year (2024-25), click here to apply'",
+              "Select 'Registration for Fisheries Schemes'",
+              "Complete basic details for registration",
+              "Enter a valid 10-digit mobile number and click to send OTP",
+              "Enter the OTP and receive a Registration Number and Password",
+              "Login with Registration Number and Password",
+              "Fill the application form",
+              "Upload required documents",
+              "Click on the submit button"
+            ],
+            "documents": [
+              "Applicant's Photograph (self-signed)",
+              "Training Certificate",
+              "Land Lease Receipt",
+              "Pen/ RFF Group Return",
+              "Photocopy of Photo Identity Card (Aadhaar/India Government recognized Photo Identity Card)",
+              "Original copy of Consent Letter (in prescribed form)",
+              "Self-attested Photocopy of Bank Passbook or Cheque (including bank name, branch name, account number, IFSC code)"
+            ],
+            "state": "Bihar",
+            "mode": false,
+            "sourceLink": "https://www.myscheme.gov.in/schemes/kjmpampky"
+          },
+          {
+            "id": 195,
+            "schemeName": "Krishi Input Anudan Yojana",
+            "eligibility": {
+              "gender": null,
+              "maxAge": 0,
+              "minAge": 0,
+              "minority": false,
+              "maxIncome": 0,
+              "minIncome": 0,
+              "residence": "rural",
+              "disability": false,
+              "casteCategory": "Any",
+              "maritalStatus": "Any"
+            },
+            "category": "agriculture",
+            "applicationProcedure": [
+              "Visit the registration page of the DBT portal",
+              "Select Aadhaar verification type",
+              "Enter Aadhaar number and Name",
+              "Enter OTP and validate",
+              "Fill in farmer details, land information, and bank account details",
+              "Submit and generate registration ID",
+              "Apply for the scheme after 48 hours using the registration number"
+            ],
+            "documents": [
+              "Aadhaar Details",
+              "Passport Size Photo",
+              "Farmer details",
+              "Land information",
+              "Bank account",
+              "Police station number",
+              "Account number",
+              "Khesra number",
+              "Land document or Land Possession Certificate",
+              "Details of Crop Damaged by the flood",
+              "Details of two adjacent farmers and verified documents"
+            ],
+            "state": "Bihar",
+            "mode": false,
+            "sourceLink": "https://www.myscheme.gov.in/schemes/kiay"
+          },
+          {
+            "id": 242,
+            "schemeName": "Mukhyamantri Bagwani Mission: Kela Vikas Yojana",
+            "eligibility": {
+              "gender": null,
+              "maxAge": 0,
+              "minAge": 0,
+              "minority": false,
+              "maxIncome": 0,
+              "minIncome": 0,
+              "residence": "rural",
+              "disability": false,
+              "casteCategory": "Any",
+              "maritalStatus": "Any"
+            },
+            "category": "agriculture",
+            "applicationProcedure": [
+              "Visit the registration page of the DBT portal",
+              "Select Aadhaar verification type: OTP/ BIO-AUTH/ IRIS",
+              "Enter your Aadhaar number and Name as per Aadhaar",
+              "Enter the OTP",
+              "Confirm the details about the Kisan Credit Card (KCC) Details",
+              "Fill in all the details properly i.e. Farmer details, Land information, Bank account details",
+              "Validate with OTP",
+              "Visit the official website",
+              "Scroll to bottom and confirm the checkbox",
+              "Select the Type of Applicant and enter the DBT Registration Number of Kisan",
+              "Fill in the required details i.e. Address, Land Details, etc and upload documents",
+              "Confirm the checkbox and then click on Submit"
+            ],
+            "documents": [
+              "Aadhaar Details",
+              "Passport Size Photo",
+              "Farmer details",
+              "Land information",
+              "Bank account",
+              "Contract form (for non-ryot farmers)",
+              "Land-ownership/ revenue receipt (If applicable)",
+              "Genealogy (if applicable)"
+            ],
+            "state": "Bihar",
+            "mode": false,
+            "sourceLink": "https://www.myscheme.gov.in/schemes/mbykvy"
+          },
+          {
+            "id": 247,
+            "schemeName": "Mukhyamantri Gramin Peyjal Nishchay Yojana",
+            "eligibility": {
+              "gender": null,
+              "maxAge": 0,
+              "minAge": 0,
+              "minority": false,
+              "maxIncome": 0,
+              "minIncome": 0,
+              "residence": "rural",
+              "disability": false,
+              "casteCategory": "Any",
+              "maritalStatus": "Any"
+            },
+            "category": "health and wellness",
+            "applicationProcedure": [
+              "Visit the Gram Panchayat office",
+              "Fill in the application form with the required personal and household details",
+              "Submit supporting documents",
+              "The application will be reviewed for eligibility",
+              "Upon approval, the household will be included in the piped water supply scheme"
+            ],
+            "documents": [
+              "Identity proof (Aadhaar card, Voter ID, etc)",
+              "Address proof",
+              "Water requirement and consumption details",
+              "Residential proof of the Gram Panchayat",
+              "Any other documents (if required)"
+            ],
+            "state": "Bihar",
+            "mode": true,
+            "sourceLink": "https://www.myscheme.gov.in/schemes/mgpny"
+          },
+          {
+            "id": 248,
+            "schemeName": "Mukhyamantri Gram Parivahan Yojana",
+            "eligibility": {
+              "gender": null,
+              "maxAge": 0,
+              "minAge": 0,
+              "minority": false,
+              "maxIncome": 0,
+              "minIncome": 0,
+              "residence": "rural",
+              "disability": false,
+              "casteCategory": "Any",
+              "maritalStatus": "Any"
+            },
+            "category": "transport",
+            "applicationProcedure": [
+              "Visit the official Website and click on the \"Registration\" button.",
+              "Enter your Mobile Number, New Password, Email, and Driving License No.",
+              "Click on \"Register\" to complete the registration process.",
+              "Login with your registered Mobile Number and Password.",
+              "On the Application page, fill in all the required details and upload the relevant documents.",
+              "Then click on the declaration form and click on \"Submit\".",
+              "Once all details are filled in correctly, click on \"Print Application\" to get a copy of the application form."
+            ],
+            "documents": [
+              "Proof of Address",
+              "Proof of Birth",
+              "Caste Certificate",
+              "Aadhaar Details (Optional)",
+              "Driving License",
+              "Marksheets of qualified exams"
+            ],
+            "state": "Bihar",
+            "mode": false,
+            "sourceLink": "https://www.myscheme.gov.in/schemes/mgpy"
+          },
+          {
+            "id": 252,
+            "schemeName": "Mukhyamantri Nijee Nalkup Yojana",
+            "eligibility": {
+              "gender": null,
+              "maxAge": 0,
+              "minAge": 0,
+              "minority": false,
+              "maxIncome": 0,
+              "minIncome": 0,
+              "residence": "rural",
+              "disability": false,
+              "casteCategory": "Any",
+              "maritalStatus": "Any"
+            },
+            "category": "agriculture",
+            "applicationProcedure": [
+              "Visit the application page",
+              "Enter personal information and verify mobile number and Aadhaar number",
+              "Upload relevant documents",
+              "Read and agree to the declaration",
+              "Submit the application"
+            ],
+            "documents": [
+              "Aadhaar Card",
+              "Land Holding Certificate (LPC)",
+              "Caste certificate",
+              "Photograph",
+              "Declaration Form",
+              "GST voucher of the motor pump",
+              "GST Voucher of Pipe"
+            ],
+            "state": "Bihar",
+            "mode": false,
+            "sourceLink": "https://www.myscheme.gov.in/schemes/mnny"
+          },
+          {
+            "id": 256,
+            "schemeName": "Mukhyamantri Samekit Chaur Vikas Yojana",
+            "eligibility": {
+              "gender": null,
+              "maxAge": 0,
+              "minAge": 0,
+              "minority": false,
+              "maxIncome": 0,
+              "minIncome": 0,
+              "residence": "rural",
+              "disability": false,
+              "casteCategory": "Any",
+              "maritalStatus": "Any"
+            },
+            "category": "agriculture",
+            "applicationProcedure": [
+              "Visit the official website",
+              "Click on 'Applications are being invited for all the schemes of the financial year (2024-25), click here to apply'",
+              "Select 'Registration for Fisheries Schemes'",
+              "Complete basic details for registration",
+              "Enter a valid 10-digit mobile number and click to send OTP",
+              "Enter the OTP and receive a Registration Number and Password",
+              "Login with the Registration Number and Password",
+              "Fill the application form with personal details, permanent address, bank account details, land details, and financial availability of the scheme",
+              "Upload required documents",
+              "Click on the submit button"
+            ],
+            "documents": [
+              "Passport size photographs",
+              "Aadhaar card",
+              "Caste certificate",
+              "Land ownership certificate/revenue receipt or lease agreement",
+              "Consent letter for group work",
+              "Registration certificate (for entrepreneurs)",
+              "Audit and income tax returns (for entrepreneurs)",
+              "Bank consent letter"
+            ],
+            "state": "Bihar",
+            "mode": false,
+            "sourceLink": "https://www.myscheme.gov.in/schemes/mmscvy"
+          },
+          {
+            "id": 261,
+            "schemeName": "Mukhyamantri Vas Sthal Kray Sahayata Yojana",
+            "eligibility": {
+              "gender": null,
+              "maxAge": 0,
+              "minAge": 0,
+              "minority": false,
+              "maxIncome": 0,
+              "minIncome": 0,
+              "residence": "rural",
+              "disability": false,
+              "casteCategory": "Any",
+              "maritalStatus": "Any"
+            },
+            "category": "housing",
+            "applicationProcedure": [
+              "Verify your eligibility as a PMAY-G beneficiary.",
+              "Gather all required documents and submit your application through the designated Rural Development Department office.",
+              "The concerned authority will conduct a physical verification of landlessness and eligibility.",
+              "Upon approval, the amount will be directly transferred to the bank account."
+            ],
+            "documents": [
+              "Identity proof (e.g., Aadhaar card, voter ID)",
+              "Proof of landlessness (certified by the concerned authority)",
+              "PMAY-G beneficiary identification",
+              "Bank account details",
+              "Residential proof",
+              "Passport-size photographs"
+            ],
+            "state": "Bihar",
+            "mode": true,
+            "sourceLink": "https://www.myscheme.gov.in/schemes/mmvsksy"
+          },
+          {
+            "id": 309,
+            "schemeName": "Pashu Bima Yojana",
+            "eligibility": {
+              "gender": null,
+              "maxAge": 0,
+              "minAge": 0,
+              "minority": false,
+              "maxIncome": 0,
+              "minIncome": 0,
+              "residence": "rural",
+              "disability": false,
+              "casteCategory": "Any",
+              "maritalStatus": "Any"
+            },
+            "category": "agriculture",
+            "applicationProcedure": [
+              "Visit the registration page",
+              "Provide required details for registration",
+              "Submit the registration form via mobile OTP",
+              "Login to the portal",
+              "Fill in the applicant details",
+              "Upload supporting documents",
+              "Submit the application"
+            ],
+            "documents": [
+              "Aadhaar Card",
+              "Milk Producer Society Membership Receipt",
+              "Proposer's Photo"
+            ],
+            "state": "Bihar",
+            "mode": false,
+            "sourceLink": "https://www.myscheme.gov.in/schemes/pby"
+          },
+          {
+            "id": 311,
+            "schemeName": "Pathari Kshetr Talab Nirman Aadharit Matsya Paalan ki Yojana",
+            "eligibility": {
+              "gender": null,
+              "maxAge": 0,
+              "minAge": 0,
+              "minority": false,
+              "maxIncome": 0,
+              "minIncome": 0,
+              "residence": "rural",
+              "disability": false,
+              "casteCategory": "Any",
+              "maritalStatus": "Any"
+            },
+            "category": "agriculture",
+            "applicationProcedure": [
+              "Visit the official website",
+              "Click on 'Applications are being invited for all the schemes of the financial year (2024-25), click here to apply'",
+              "Select 'Registration for Fisheries Schemes'",
+              "Fill in basic details for registration",
+              "Login and fill the application form",
+              "Upload required documents",
+              "Submit the application form and print it"
+            ],
+            "documents": [
+              "Photograph of the Proposed Land",
+              "Mobile Number",
+              "Bank Branch Name, Account Number, IFSC code",
+              "Attested Copies of Aadhar Card/Ration Card/Voter ID Card",
+              "Land Map",
+              "Caste Certificate",
+              "Land Ownership Certificate/Updated Revenue Receipt or Lease Agreement",
+              "Notarized Affidavit for land dispute-free status",
+              "Affidavit and Consent Form"
+            ],
+            "state": "Bihar",
+            "mode": false,
+            "sourceLink": "https://www.myscheme.gov.in/schemes/pktnampy"
+          }
+        ]
+      }
+]

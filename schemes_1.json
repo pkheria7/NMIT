@@ -1,0 +1,885 @@
+[
+{
+    "response": [
+      {
+        "id": 2,
+        "schemeName": "Assam Arogya Nidhi Scheme",
+        "eligibility": {
+          "gender": null,
+          "maxAge": 0,
+          "minAge": 0,
+          "minority": false,
+          "maxIncome": 500000,
+          "minIncome": 0,
+          "residence": "rural",
+          "disability": false,
+          "casteCategory": "Any",
+          "maritalStatus": "Any"
+        },
+        "category": "health and wellness",
+        "applicationProcedure": [
+          "The applicant should visit the official website and download the application form",
+          "Application in the prescribed format, complete in all respects will be submitted to NHM, Assam, or to the Joint Director of Health Services of the District",
+          "An Expert Committee comprising specialist doctors of Guwahati Medical College verifies the applications and recommends the eligible cases",
+          "As per the committee’s recommendations financial assistance is provided to eligible beneficiaries preferably through Direct Bank Transfer"
+        ],
+        "documents": [
+          "Photograph of the patient (Attested by Doctor)",
+          "Attested photocopy of Income Certificate by Revenue Circle Officer",
+          "Attested photocopy of Identify & Address Proof (Voter ID, ADHAAR CARD, Driving license)",
+          "Original bills, vouchers, receipts, etc",
+          "Copy of the medical documents of treatment to be certified by treating Doctor/Hospital",
+          "Discharge Summary/Prescription (Attested)",
+          "Attested Photocopy copy of the first page of the Bank Pass Book",
+          "Attested Photocopy of Pradhan Mantri Jana Arogyua Yojana (PMJAY)/Atal Amrit Abhiyan (AAA) Card"
+        ],
+        "state": "Assam",
+        "mode": true,
+        "sourceLink": "https://www.myscheme.gov.in/schemes/aan"
+      },
+      {
+        "id": 6,
+        "schemeName": "Aamar Dukan On Wheels",
+        "eligibility": {
+          "gender": null,
+          "maxAge": 0,
+          "minAge": 18,
+          "minority": false,
+          "maxIncome": 0,
+          "minIncome": 0,
+          "residence": "rural",
+          "disability": false,
+          "casteCategory": "Any",
+          "maritalStatus": "Any"
+        },
+        "category": "employment",
+        "applicationProcedure": [
+          "Offline"
+        ],
+        "documents": [
+          "Age proof",
+          "Address proof",
+          "Personal Identification: Aadhaar Card, Voter ID & Driving License",
+          "Educational Qualification",
+          "Experience certificate, if any",
+          "Photographs"
+        ],
+        "state": "Assam",
+        "mode": true,
+        "sourceLink": "https://www.myscheme.gov.in/schemes/adow"
+      },
+      {
+        "id": 22,
+        "schemeName": "Aponar Apon Ghar",
+        "eligibility": {
+          "gender": null,
+          "maxAge": 0,
+          "minAge": 0,
+          "minority": false,
+          "maxIncome": 2000000,
+          "minIncome": 0,
+          "residence": "rural",
+          "disability": false,
+          "casteCategory": "Any",
+          "maritalStatus": "Any"
+        },
+        "category": "housing",
+        "applicationProcedure": [
+          "Visit the official website",
+          "Navigate to the \"Click here for Loan Subsidy\" section",
+          "Click \"Aponar Apon Ghar (Home Loan Subsidy Scheme)\"",
+          "Fill in all the mandatory details",
+          "Upload the Supporting Documents"
+        ],
+        "documents": [
+          "Residence Proof of Assam State",
+          "Proof of Identity",
+          "Income Certificate",
+          "Bank Account Details",
+          "Passport Size Photograph",
+          "Latest Salary Slips",
+          "Statement of Salary Account for the Past Six Months",
+          "No Dues Salary From the Existing Banker if the Salary is Credited in Other Than SBI Account",
+          "Proof of Being in Service for a Minimum of Five Years",
+          "Statement of Personal Assets and Liabilities in Bank’s Format",
+          "Documents Evidencing the Ownership of Land"
+        ],
+        "state": "Assam",
+        "mode": false,
+        "sourceLink": "https://www.myscheme.gov.in/schemes/aag"
+      },
+      {
+        "id": 25,
+        "schemeName": "Assam Abhinandan Education Loan Subsidy Scheme",
+        "eligibility": {
+          "gender": null,
+          "maxAge": 0,
+          "minAge": 0,
+          "minority": false,
+          "maxIncome": 0,
+          "minIncome": 0,
+          "residence": "rural",
+          "disability": false,
+          "casteCategory": "Any",
+          "maritalStatus": "Any"
+        },
+        "category": "education",
+        "applicationProcedure": [
+          "Visit the official website",
+          "Fill in all the mandatory details",
+          "Upload the Supporting Documents",
+          "Check the Declaration, and click 'Save'"
+        ],
+        "documents": [
+          "Passport Sized Photograph of the Student",
+          "Student’s Aadhaar Card",
+          "Proof of Identity of the Parents",
+          "Bank Loan Documents",
+          "Proof of Address",
+          "Residential/Domicile Certificate",
+          "Marksheets / Passing Certificate of the Previous Educational Qualification",
+          "PAN Card",
+          "Bank Details"
+        ],
+        "state": "Assam",
+        "mode": false,
+        "sourceLink": "https://www.myscheme.gov.in/schemes/aaelss"
+      },
+      {
+        "id": 26,
+        "schemeName": "Assam Arogya Nidhi Scheme",
+        "eligibility": {
+          "gender": null,
+          "maxAge": 0,
+          "minAge": 0,
+          "minority": false,
+          "maxIncome": 500000,
+          "minIncome": 0,
+          "residence": "rural",
+          "disability": false,
+          "casteCategory": "Any",
+          "maritalStatus": "Any"
+        },
+        "category": "health and wellness",
+        "applicationProcedure": [
+          "The applicant should visit the official website and download the application form",
+          "Application in the prescribed format, complete in all respects will be submitted to NHM, Assam, or to the Joint Director of Health Services of the District",
+          "An Expert Committee comprising specialist doctors of Guwahati Medical College verifies the applications and recommends the eligible cases",
+          "As per the committee’s recommendations financial assistance is provided to eligible beneficiaries preferably through Direct Bank Transfer"
+        ],
+        "documents": [
+          "Photograph of the patient (Attested by Doctor)",
+          "Attested photocopy of Income Certificate by Revenue Circle Officer",
+          "Attested photocopy of Identify & Address Proof (Voter ID, ADHAAR CARD, Driving license)",
+          "Original bills, vouchers, receipts, etc",
+          "Copy of the medical documents of treatment to be certified by treating Doctor/Hospital",
+          "Discharge Summary/Prescription (Attested)",
+          "Attested Photocopy copy of the first page of the Bank Pass Book",
+          "Attested Photocopy of Pradhan Mantri Jana Arogyua Yojana (PMJAY)/Atal Amrit Abhiyan (AAA) Card"
+        ],
+        "state": "Assam",
+        "mode": true,
+        "sourceLink": "https://www.myscheme.gov.in/schemes/aan"
+      },
+      {
+        "id": 39,
+        "schemeName": "Bidya Lakshmi Loan",
+        "eligibility": {
+          "gender": null,
+          "maxAge": 0,
+          "minAge": 0,
+          "minority": false,
+          "maxIncome": 450000,
+          "minIncome": 0,
+          "residence": "rural",
+          "disability": false,
+          "casteCategory": "Any",
+          "maritalStatus": "Any"
+        },
+        "category": "education",
+        "applicationProcedure": [
+          "Step 1: The eligible employee should take a print of the prescribed format of the application form.",
+          "Step 2: In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest them, if required).",
+          "Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the respective Drawing and Disbursing Officer (DDO). Furnish a written undertaking for EMI deduction from salary.",
+          "Step 4: The DDO sends the application package (form, documents, and check-off letter) to the designated SBI branch in the district or civil sub-division."
+        ],
+        "documents": [
+          "Passport Size Photograph (3 copies)",
+          "Copy of PAN Card (Identity Proof)",
+          "Electricity Bill/ Landline Telephone Bill Aadhar Card/ Driving License/ Passport (Address Proof)",
+          "Mark sheets and Pass Certificates up to the last qualifying examinations (Matric onwards)",
+          "Offer letter/Bonafide certificate from the institution",
+          "Prospectus of the Course and Approval copy AICTE/UGC or Governing Body for the Course",
+          "Detailed Fee Structure of the course on the letterhead of the institution",
+          "Score sheet of Entrance Tests like JEE/PMT",
+          "Passport",
+          "Unconditional Offer Letter",
+          "Copy of Bank Passbook or Bank account statement",
+          "Form 16/ Income Tax Return/ Income Certificate from the appropriate authority (Income Proof)"
+        ],
+        "state": "Assam",
+        "mode": true,
+        "sourceLink": "https://www.myscheme.gov.in/schemes/bll"
+      },
+      {
+        "id": 70,
+        "schemeName": "Chief Minister Samagra Gramya Unnayan Yojana",
+        "eligibility": {
+          "gender": null,
+          "maxAge": 0,
+          "minAge": 0,
+          "minority": false,
+          "maxIncome": 0,
+          "minIncome": 0,
+          "residence": "rural",
+          "disability": false,
+          "casteCategory": "Any",
+          "maritalStatus": "Any"
+        },
+        "category": "agriculture",
+        "applicationProcedure": [
+          "Go to the nearest office of the Agriculture Department",
+          "Ask for the application form for Samagra Gramya Unnayan Yojana",
+          "Fill out the application form",
+          "Attach all the required documents",
+          "Submit the form to the agriculture Department"
+        ],
+        "documents": [
+          "Aadhaar Card",
+          "Residence certificate",
+          "Passport size photograph",
+          "Mobile number",
+          "Email id",
+          "Income certificate",
+          "Age Proof",
+          "Bank account details"
+        ],
+        "state": "Assam",
+        "mode": true,
+        "sourceLink": "https://www.myscheme.gov.in/schemes/cmsguy"
+      },
+      {
+        "id": 54,
+        "schemeName": "Cash Award (A.B.O.C.W.W.B)",
+        "eligibility": {
+          "gender": null,
+          "maxAge": 0,
+          "minAge": 0,
+          "minority": false,
+          "maxIncome": 0,
+          "minIncome": 0,
+          "residence": "rural",
+          "disability": false,
+          "casteCategory": "Any",
+          "maritalStatus": "Any"
+        },
+        "category": "education",
+        "applicationProcedure": [
+          "Step 01: To avail the benefits of the scheme, the eligible applicant may apply through the Official Portal.",
+          "Step 02: On the home page of the portal, click on ‘Login Now’ and enter the registered Mobile Number or User ID.",
+          "Step 03: The individual console of the applicant gets opened with various functions such as detail updating, Fees due, and benefits eligible.",
+          "Step 04: Click on ‘Benefit’ and select the applicable scheme (Cash Award Benefit) under the benefit and the portal redirects to an online application form specific to the scheme.",
+          "Step 05: The applicant may fill up the application with all mandatory fields and upload the necessary documents.",
+          "Step 06: The applicant submits the application form and a tracking/reference number is generated as a future reference for the applicant."
+        ],
+        "documents": [
+          "ABOCWWB ID Card",
+          "Applicant's Photo",
+          "Signature of the Parent",
+          "Signature of the Applicant Student",
+          "Attested Copy of the ID Card of the Father/Mother",
+          "Attested Copy of the Pass Certificate from the Head of the Institution",
+          "Attested Copy of the Mark sheet of the Exam",
+          "Copy of Payslip of Account Paybook",
+          "Caste Certificate (Other than General category)",
+          "Any other relevant documents"
+        ],
+        "state": "Assam",
+        "mode": false,
+        "sourceLink": "https://abocwwb.assam.gov.in/"
+      },
+      {
+        "id": 88,
+        "schemeName": "Development Of Playfield Under CMSGUY",
+        "eligibility": {
+          "gender": null,
+          "maxAge": 0,
+          "minAge": 0,
+          "minority": false,
+          "maxIncome": 0,
+          "minIncome": 0,
+          "residence": "rural",
+          "disability": false,
+          "casteCategory": "Any",
+          "maritalStatus": "Any"
+        },
+        "category": "sports",
+        "applicationProcedure": [
+          "Offline",
+          "Interested Schools, Colleges, Clubs, and other Sports Organizations can apply to the District Sports Officers (DSOs) in the format prescribed in Annexure-I of the scheme guidelines."
+        ],
+        "documents": [
+          "Self-Attested documents in support of the mandatory fields of the Application Form.",
+          "Proof of Address of the School/College/Club/SportsAssociation/Panchayat/Institution",
+          "Bank Details of the School/College/Club/SportsAssociation/Panchayat/Institution",
+          "Land Holding Certificate Playfield issued by the Competent Authority",
+          "In case of Club/Sports Associations, the Registration Certificate under the Societies Act, 1860",
+          "Photograph of the Playground with Counter Signature of District Sports Officer",
+          "Estimated Cost / Fund Required"
+        ],
+        "state": "Assam",
+        "mode": true,
+        "sourceLink": "https://www.myscheme.gov.in/schemes/dp-cmsguy"
+      },
+      {
+        "id": 97,
+        "schemeName": "Distribution Of Tractor Unit Under CMSGUY",
+        "eligibility": {
+          "gender": null,
+          "maxAge": 0,
+          "minAge": 0,
+          "minority": false,
+          "maxIncome": 0,
+          "minIncome": 0,
+          "residence": "rural",
+          "disability": false,
+          "casteCategory": "Any",
+          "maritalStatus": "Any"
+        },
+        "category": "agriculture",
+        "applicationProcedure": [
+          "The applicant needs to get the application form from the District Agriculture Officer and fill in all the mandatory fields of the scheme application form in a prescribed format.",
+          "The DAO will present applications received from the farmer's groups before the DLC.",
+          "The DLC will select one eligible group in each village having a deposit of at least 10% of the total price of the tractor unit in the bank account of the group in the branch concerned if bank finance is opted for.",
+          "The Member Secretary will notify the names of the selected groups.",
+          "The Bank branch will directly transfer the amount of subsidy to the group of beneficiary farmers' accounts on completion of the period of hypothecation."
+        ],
+        "documents": [
+          "Aadhar Card of all members of the Group",
+          "Residential Certificate of all members of the Group",
+          "Identity Card of all members of the Group",
+          "PAN Card of all members of the Group",
+          "Voter ID Cards of all members of the Group",
+          "Group’s Bank Account Passbook and Bank Statement",
+          "KCC of Members (if any)",
+          "Power of Attorney for Authorized Signatory in the form of an Affidavit",
+          "Proof of Land Holding of all members of the Group",
+          "Caste Certificate (if applicable) of all members of the Group"
+        ],
+        "state": "Assam",
+        "mode": true,
+        "sourceLink": "https://www.myscheme.gov.in/schemes/dtu-cmsguy"
+      },
+      {
+        "id": 111,
+        "schemeName": "Exposure Visits To The Assam Legislative Assembly",
+        "eligibility": {
+          "gender": null,
+          "maxAge": 0,
+          "minAge": 0,
+          "minority": false,
+          "maxIncome": 0,
+          "minIncome": 0,
+          "residence": "rural",
+          "disability": false,
+          "casteCategory": "Any",
+          "maritalStatus": "Any"
+        },
+        "category": "education",
+        "applicationProcedure": [
+          "The selection of educational institutions and students is done in consultation with the respective District Collectors (DCs)/Inspectors of Schools.",
+          "Invitations are issued to the Heads of educational institutions with due approval from the Hon'ble Minister, Parliamentary Affairs.",
+          "Recommendations from dignitaries like the Hon'ble CM, Ministers, Speaker, Dy. Speaker, MLAs, MPs, etc., are considered for extending invitations.",
+          "The participating institutions inform the students about the visit and the code of conduct to be followed."
+        ],
+        "documents": [
+          "Identity cards of participating students.",
+          "List of participating students provided to the Assembly Secretariat for the issuance of passes.",
+          "Brief write-up (not exceeding one page per student) summarizing their experience and feedback within a week."
+        ],
+        "state": "Assam",
+        "mode": true,
+        "sourceLink": "https://www.myscheme.gov.in/schemes/evtala"
+      },
+      {
+        "id": 116,
+        "schemeName": "Film Finance Scheme",
+        "eligibility": {
+          "gender": null,
+          "maxAge": 0,
+          "minAge": 0,
+          "minority": false,
+          "maxIncome": 0,
+          "minIncome": 0,
+          "residence": "rural",
+          "disability": false,
+          "casteCategory": "Any",
+          "maritalStatus": "Any"
+        },
+        "category": "travel tourism",
+        "applicationProcedure": [
+          "Download the application form from the official website",
+          "Fill in the required details accurately and completely",
+          "Attach supporting documents",
+          "Submit the application by visiting the designated government office"
+        ],
+        "documents": [
+          "Application form",
+          "Project proposal",
+          "Script",
+          "Budget plan",
+          "Financial statements",
+          "Production schedule",
+          "Director/Producer's profile",
+          "Legal agreements",
+          "Bank account details"
+        ],
+        "state": "Assam",
+        "mode": true,
+        "sourceLink": "https://www.myscheme.gov.in/schemes/fss"
+      },
+      {
+        "id": 186,
+        "schemeName": "KARMASHREE- The Chief Minister's Award For Excellence In Public Administration",
+        "eligibility": {
+          "gender": null,
+          "maxAge": 0,
+          "minAge": 0,
+          "minority": false,
+          "maxIncome": 0,
+          "minIncome": 0,
+          "residence": "rural",
+          "disability": false,
+          "casteCategory": "Any",
+          "maritalStatus": "Any"
+        },
+        "category": "Any",
+        "applicationProcedure": [
+          "Online application",
+          "Submission of application with recommendations of competent authority",
+          "Filling of application form",
+          "Providing details of beneficiaries/stakeholders",
+          "Submission of supporting documents"
+        ],
+        "documents": [
+          "Brief write-up of 5 pages",
+          "Supporting documents (Executive Summary, Field photographs, Flow chart, Success story)",
+          "CD of short film highlighting the initiative/innovation"
+        ],
+        "state": "Assam",
+        "mode": false,
+        "sourceLink": "https://www.myscheme.gov.in/schemes/cm-awards-karmashree"
+      },
+      {
+        "id": 169,
+        "schemeName": "Integrated Horticulture Development",
+        "eligibility": {
+          "gender": null,
+          "maxAge": 0,
+          "minAge": 0,
+          "minority": false,
+          "maxIncome": 0,
+          "minIncome": 0,
+          "residence": "rural",
+          "disability": false,
+          "casteCategory": "Any",
+          "maritalStatus": "Any"
+        },
+        "category": "agriculture",
+        "applicationProcedure": [
+          "Online",
+          "Offline",
+          "Mission for Integrated Development of Horticulture at District Agriculture office through local Agriculture Development Officer"
+        ],
+        "documents": [
+          "Degree/Diploma in Civil/ Mechanical/ Electrical Engineering",
+          "2 years' post qualification experience preferably in irrigation sector",
+          "Knowledge of computer"
+        ],
+        "state": "Assam",
+        "mode": true,
+        "sourceLink": "https://www.myscheme.gov.in/schemes/ihd"
+      },
+      {
+        "id": 179,
+        "schemeName": "Journalist's Medical Welfare Scheme - Assam",
+        "eligibility": {
+          "gender": null,
+          "maxAge": 0,
+          "minAge": 0,
+          "minority": false,
+          "maxIncome": 0,
+          "minIncome": 0,
+          "residence": "rural",
+          "disability": false,
+          "casteCategory": "Any",
+          "maritalStatus": "Any"
+        },
+        "category": "health and wellness",
+        "applicationProcedure": [
+          "Application for grant of financial assistance shall be submitted to the Convener of the Committee (Director, DIPR) in the prescribed form.",
+          "Proposals for assistance from the fund will be initiated by the DIPR.",
+          "The Convener of the Committee (Director, DIPR) may also put up deserving cases for grant of financial assistance.",
+          "All the applications shall be scrutinized by the committee.",
+          "Financial assistance shall be provided on the date of issue of the order sanctioning the assistance unless otherwise specified therein."
+        ],
+        "documents": [
+          "Attested or self-attested copy of Identity Card (DIPR)",
+          "Identity Card of Present Organization",
+          "Bank details like Passbook (Front page) & Cancelled Cheque",
+          "Medical documents like Admission Certificates, Discharge Certificates, Prescriptions, Bills/Vouchers, Clinical Reports, etc.",
+          "A copy of his/her PAN Card/Aadhar card"
+        ],
+        "state": "Assam",
+        "mode": true,
+        "sourceLink": "https://www.myscheme.gov.in/schemes/jmws-assam"
+      },
+      {
+        "id": 269,
+        "schemeName": "Mukhya Mantri Krishi Sa Sajuli Yozana - Assam",
+        "eligibility": {
+          "gender": null,
+          "maxAge": 0,
+          "minAge": 21,
+          "minority": false,
+          "maxIncome": 0,
+          "minIncome": 0,
+          "residence": "rural",
+          "disability": false,
+          "casteCategory": "Any",
+          "maritalStatus": "Any"
+        },
+        "category": "agriculture",
+        "applicationProcedure": [
+          "Offline",
+          "Application in Assamese: https://diragri.assam.gov.in/sites/default/files/swf_utility_folder/departments/diragri_medhassu_in_oid_4/menu/schemes/Application%20in%20Assamese.pdf",
+          "Application in English: https://diragri.assam.gov.in/sites/default/files/swf_utility_folder/departments/diragri_medhassu_in_oid_4/menu/schemes/Application%20in%20English.pdf",
+          "Step 01: Agriculture Department will publish the advertisement through the print and electronic media in order to invite applications from the respective website",
+          "Step 02: This application will be collected by the Agriculture Extension Assistant (AEA) along with bank account details of beneficiaries with their mobile numbers",
+          "Step 03: The beneficiary will be selected GP/VDP wise.",
+          "Step 04: Gaon Panchayats are required to make a list of all the beneficiaries and compile it by the Agriculture Development Officer (ADO) concerned and this list will be placed before the District-level Committee(DLC) after the scrutiny.",
+          "Step 05: A list of farmers from AEAs/ADOs will be approved by District Level Committee.",
+          "Step 06: SC and ST farmers will be selected as per the state reservation act which is 7% for SC, 10% for ST (P), and 5% for ST (H).",
+          "Step 07: After the approval of the beneficiary list, the list will be sent to the Director of agriculture with the bank account details and mobile number details. Further, the Director will make arrangements to send a request to ASFAC to transfer the amount to the beneficiaries bank account by electronic mode. The APC being the custodian of the ASFAC Bank account will transfer the amount to the individual Bank accounts of the beneficiaries, through RTGS/NEFT from the Bank account of ASFAC. The Financial Assistance will be sent to the beneficiaries' account in a single installment of ₹ 5000/- per beneficiary only.",
+          "Step 08: The individual beneficiary will give an undertaking that the financial assistance provided under the scheme will be utilized for the procurement of farm implements only failing which he will be liable for suitable legal action.",
+          "Step 09: The list of approved beneficiaries will be published in the District website of the DCs. The same may also be kept in the office notice boards of the DC and DAOs."
+        ],
+        "documents": [
+          "Aadhar Card",
+          "Residence certificate",
+          "Caste certificate i.e. SC, ST, etc.",
+          "Age proof",
+          "Proof of agricultural land",
+          "Bank account details",
+          "Ration card",
+          "Passport size photograph",
+          "Mobile number",
+          "Undertaking etc."
+        ],
+        "state": "Assam",
+        "mode": true,
+        "sourceLink": "https://www.myscheme.gov.in/schemes/mmkssy-assam"
+      },
+      {
+        "id": 333,
+        "schemeName": "Price Support Scheme",
+        "eligibility": {
+          "gender": null,
+          "maxAge": 0,
+          "minAge": 0,
+          "minority": false,
+          "maxIncome": 0,
+          "minIncome": 0,
+          "residence": "rural",
+          "disability": false,
+          "casteCategory": "Any",
+          "maritalStatus": "Any"
+        },
+        "category": "agriculture",
+        "applicationProcedure": [
+          "Download the application form for the Price Support Scheme official website",
+          "Fill in the required details accurately and completely",
+          "Attach supporting document",
+          "Submit the application by visiting the designated government office"
+        ],
+        "documents": [
+          "Land revenue documents",
+          "Identification proof",
+          "Land documents",
+          "Bank account details",
+          "Agricultural documents",
+          "Income certificate",
+          "Photographs"
+        ],
+        "state": "Assam",
+        "mode": true,
+        "sourceLink": "https://www.myscheme.gov.in/schemes/pss"
+      },
+      {
+        "id": 334,
+        "schemeName": "Promotion And Development Of Tea Tourism Infrastructure In Assam",
+        "eligibility": {
+          "gender": null,
+          "maxAge": 0,
+          "minAge": 0,
+          "minority": false,
+          "maxIncome": 0,
+          "minIncome": 0,
+          "residence": "rural",
+          "disability": false,
+          "casteCategory": "Any",
+          "maritalStatus": "Any"
+        },
+        "category": "travel tourism",
+        "applicationProcedure": [
+          "Offline",
+          "Step 01: Assam Tourism Development Corporation Ltd., will give wide publicity through open advertisements in daily newspapers, electronic media, etc. as per the norms.",
+          "Step 02: The interested and eligible applicants shall apply in the prescribed format to be issued by the Managing Director, Assam Tourism Development Corporation Ltd., Guwahati, and will submit the same along with all supporting documents as specified.",
+          "Step 03: Each individual tea garden meeting the eligibility criteria will apply for benefits under the scheme and come up with a presentation on the proposed infrastructure to be developed along with the estimated cost to be presented before the Selection Committee.",
+          "Step 04: The application shall be scrutinized by the State Level Committee (SLC) for the selection of Tea Gardens to be undertaken under the project.",
+          "Step 05: Once scrutiny is done, a physical inspection of the sites will be carried out by ATDC.",
+          "Step 06: After scrutiny and physical inspection, the list of eligible tea gardens will be approved by the SLC for further implementation of the scheme.",
+          "Step 07: SLC will act as the Guiding Force in all aspects for the effective implementation of the scheme."
+        ],
+        "documents": [
+          "Voter, PAN & Aadhar card: Identity documents of the applicant",
+          "Roadmap: A sketch or snapshot of Google Maps, showing the way to the location from the nearest prominent place or from the main road.",
+          "No objection certificate from circle officer/DC.",
+          "Police Verification Report of the applicant.",
+          "Tourist place photos: proximate tourist attractions/place of interest photographs",
+          "Demand Draft of ₹ 5000/- (Non-Refundable) with the Form in favour of Managing Director, Assam Tourism Development Corporation Ltd., Guwahati.",
+          "Proper Land documents of the tea garden. (certified copy of deed/land document (patta/namjari))",
+          "Lease agreement in case of tea garden on lease.",
+          "Copy the Site plan etc. of the tea garden.",
+          "Site photographs: the desired location for photographs",
+          "Passport Photos: 1 copy self-attached photograph stick on the form and two other photographs self-attached along with Form No. on the back side to be pinned with form.",
+          "Photocopy of the form: need two sets of forms (1 set original + 1 set photocopy).",
+          "Envelope: 1 no. self-addressed envelope.",
+          "A self-contained proposal on Tea tourism clearly indicates the work to be done for making the tea garden a tea tourism spot so that all the recreational infrastructures are highlighted.",
+          "Undertaking pertaining to compliance with all the norms and/or provisions of the implementing Guidelines.",
+          "Balance sheets of the tea garden for the last five years to be duly certified by the CA.",
+          "Financial soundness certificate."
+        ],
+        "state": "Assam",
+        "mode": true,
+        "sourceLink": "https://www.myscheme.gov.in/schemes/pdtti-assam"
+      },
+      {
+        "id": 352,
+        "schemeName": "Sarothi Scheme",
+        "eligibility": {
+          "gender": null,
+          "maxAge": 0,
+          "minAge": 0,
+          "minority": false,
+          "maxIncome": 0,
+          "minIncome": 0,
+          "residence": "rural",
+          "disability": false,
+          "casteCategory": "Any",
+          "maritalStatus": "Any"
+        },
+        "category": "industry",
+        "applicationProcedure": [
+          "Download application from link",
+          "Fill out application and send with required documents to District Industries & Commerce Centre (DICC) General Manager"
+        ],
+        "documents": [
+          "Application in prescribed format",
+          "Passport size photograph",
+          "Entrepreneurs Memorandum Part-I (EM part-I), Udyog Adhar",
+          "Scheme/Project Report",
+          "Identity Proof",
+          "Address Proof",
+          "Trade license",
+          "Certificate of training",
+          "Certificate of OBC/SC/ST/Physical handicraft"
+        ],
+        "state": "Assam",
+        "mode": false,
+        "sourceLink": "https://www.myscheme.gov.in/schemes/srs"
+      },
+      {
+        "id": 372,
+        "schemeName": "Silpi Pension Scheme - Assam",
+        "eligibility": {
+          "gender": null,
+          "maxAge": 0,
+          "minAge": 0,
+          "minority": false,
+          "maxIncome": 0,
+          "minIncome": 0,
+          "residence": "rural",
+          "disability": false,
+          "casteCategory": "Any",
+          "maritalStatus": "Any"
+        },
+        "category": "Art and Culture",
+        "applicationProcedure": [
+          "Online application through official website",
+          "Fill personal information and get OTP",
+          "Upload required documents",
+          "Submit application"
+        ],
+        "documents": [
+          "PAN Card",
+          "Aadhaar Card",
+          "Age-Proof Certificate",
+          "Domicile Certificate",
+          "Identity proof",
+          "Passport Photograph",
+          "Bank Passbook",
+          "Income Certificate",
+          "Death Certificate",
+          "Disability Certificate",
+          "Achievements proof certificates",
+          "Recognitions Proof certificate"
+        ],
+        "state": "Assam",
+        "mode": false,
+        "sourceLink": "https://www.myscheme.gov.in/schemes/sps-assam"
+      },
+      {
+        "id": 374,
+        "schemeName": "Sneha Sparsha",
+        "eligibility": {
+          "gender": null,
+          "maxAge": 12,
+          "minAge": 0,
+          "minority": false,
+          "maxIncome": 500000,
+          "minIncome": 0,
+          "residence": "rural",
+          "disability": false,
+          "casteCategory": "Any",
+          "maritalStatus": "Any"
+        },
+        "category": "health and wellness",
+        "applicationProcedure": [
+          "Online application",
+          "Submission to the Office of the Mission Director and/or to the Sneha Sparsha Committee",
+          "Appearance before the Sneha Sparsha Committee along with the patient"
+        ],
+        "documents": [
+          "Aaadhaar Card",
+          "Birth Certificate of the Patient",
+          "Residential Proof / Domicile Certificate of Assam",
+          "Income Certificate",
+          "Photograph of the Patient (Attested by Doctor)",
+          "OPD Advice Slip / Discharge Summary / Prescription"
+        ],
+        "state": "Assam",
+        "mode": false,
+        "sourceLink": "https://www.myscheme.gov.in/schemes/ss-a"
+      },
+      {
+        "id": 386,
+        "schemeName": "Swahid Kushal Konwar Sarbajanin Briddha Pension Achoni",
+        "eligibility": {
+          "gender": null,
+          "maxAge": 0,
+          "minAge": 60,
+          "minority": false,
+          "maxIncome": 0,
+          "minIncome": 0,
+          "residence": "rural",
+          "disability": false,
+          "casteCategory": "Any",
+          "maritalStatus": "Any"
+        },
+        "category": "health and wellness",
+        "applicationProcedure": [
+          "Visit the Gaon Panchayat/Development Block/ Municipal Corporation/Municipal Board/Town Committee of the respective jurisdiction.",
+          "Fill in the application form and attach self-attested documents.",
+          "Submit the duly filled and signed application form to your nearest Gaon Panchayat/Development Block/ Municipal Corporation/Municipal Board/Town Committee."
+        ],
+        "documents": [
+          "Aadhaar Card",
+          "Proof of Identity",
+          "Proof of Age / Date of Birth",
+          "Domicile/Residential Certificate of the state of Assam",
+          "Details of the Aadhaar Linked Bank Account"
+        ],
+        "state": "Assam",
+        "mode": true,
+        "sourceLink": "https://www.myscheme.gov.in/schemes/skksbpa"
+      },
+      {
+        "id": 387,
+        "schemeName": "Swami Vivekananda Assam Youth Empowerment",
+        "eligibility": {
+          "gender": null,
+          "maxAge": 0,
+          "minAge": 18,
+          "minority": false,
+          "maxIncome": 0,
+          "minIncome": 0,
+          "residence": "rural",
+          "disability": false,
+          "casteCategory": "Any",
+          "maritalStatus": "Any"
+        },
+        "category": "employment",
+        "applicationProcedure": [
+          "Project proposals will be invited from beneficiaries at the District level through advertisement.",
+          "Application for financial assistance under the scheme will be received online.",
+          "Upon receipt of the online application General Manager, of DICC will scrutinize them and forward them to the District Level Committee (DLC) for approval.",
+          "District Level Committee will examine the application and recommend it to the bank for consideration online.",
+          "Bank will take their credit decision on the basis of the viability of each project."
+        ],
+        "documents": [
+          "SVAYEM Scheme 2023 Application form",
+          "Proprietary Identity Document",
+          "Copy of business registration certificate",
+          "Business license copy",
+          "National Food Security Card",
+          "Residence proof",
+          "Skill Development Training Certificate if applicable",
+          "Experience certificate if applicable",
+          "Proof of age",
+          "Proof of merit",
+          "Identity proof (Voter ID card, driving license, PAN card, Aadhaar card, passport etc.)",
+          "Plan Report for Proposed Project"
+        ],
+        "state": "Assam",
+        "mode": false,
+        "sourceLink": "https://www.myscheme.gov.in/schemes/svayem"
+      },
+      {
+        "id": 394,
+        "schemeName": "The Artist Welfare Fund Of Assam",
+        "eligibility": {
+          "gender": null,
+          "maxAge": 0,
+          "minAge": 20,
+          "minority": false,
+          "maxIncome": 0,
+          "minIncome": 0,
+          "residence": "rural",
+          "disability": false,
+          "casteCategory": "Any",
+          "maritalStatus": "Any"
+        },
+        "category": "health and wellness",
+        "applicationProcedure": [
+          "Offline",
+          "The candidate must apply in the standard application form available in the website and send it to the office of Assam State Film (Finance & Development) Corporation Ltd (ASFFDC), Shilpgram Road, near Sankardev Kalakshetra, Panjabari, Guwahati-37"
+        ],
+        "documents": [
+          "A Recent (not older than six months) Clear & Colored Passport Sized Photograph",
+          "Aadhaar Card",
+          "Proof of Identity",
+          "Proof of Residence of Assam",
+          "Proof of Age / DOB",
+          "Details of Award/Distinction/Honour conferred on the Artiste",
+          "Proof reg. the Medical Ailment (Medical Certificate)",
+          "Income Certificate",
+          "Details of the Aadhaar Linked Bank Account"
+        ],
+        "state": "Assam",
+        "mode": true,
+        "sourceLink": "https://www.myscheme.gov.in/schemes/tawfa"
+      }
+    ]
+  }
+]
